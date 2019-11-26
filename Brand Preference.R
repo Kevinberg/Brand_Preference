@@ -9,7 +9,7 @@ To make the predictions, we will be using two data sets: a complete data set, an
 The idea is to complete the data set that is incomplete by taking the assumption that the essential variables will provide us  a more accurate performance on brand preferences which are
 We will get brand preferences by using age and salary as more correlated variables.
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE)jjjj
 ```
 
 ```{r}
